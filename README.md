@@ -6,4 +6,4 @@ Python-Flask
 Azure Blobs (images)
 MongoDB (key-value store)
 OCR API (HP haven on demand or Tesseract)
-Apache NGINX
+Apache NGINX.
